@@ -22,11 +22,11 @@ CONTROLS:
 RULES:  
  
 	● Initially game starts with 30 points. 
-	● Player gets +10 points for the coin pocketed of his chosen colour. 
-	● Player gets ­5 points for coin pocketed of opposite colour. 
-	● Player gets ­5 points for pocketing of striker. 
+	● Player gets 10 points for the coin pocketed of his chosen colour. 
+	● Player loses 5 points for coin pocketed of opposite colour. 
+	● Player loses 5 points for pocketing of striker. 
 	● Player loses 1 point per second till he strikes. 
-	● Player gets +50 points for pocketing red coin. 
+	● Player gets 50 points for pocketing red coin. 
 	● When all coins of the chosen colour is pocketed and red coin is 
 	pocketed, the game is ended. 
 	● All the coins which are pocketed are shown on the dock. This dock 
